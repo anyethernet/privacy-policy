@@ -39,3 +39,11 @@ Tailscale을 쓰는 경우 로그인과 연결은 Tailscale 앱의 계정으로 
 사용을 멈추면 앱을 삭제하면 됩니다. 개발사 쪽에 별도로 보관된 사용자 영상은 없습니다.
 
 Windows용 화면 보호기 설치 파일은 GitHub Releases에서 제공할 수 있습니다(저장소·릴리스 공개 설정에 따름).
+
+---
+
+## Public URLs / 공개 주소
+
+- **GitHub Pages (Play Console):** https://anyethernet.github.io/privacy-policy/
+- **Public repository:** https://github.com/anyethernet/privacy-policy
+- **Raw Markdown:** https://raw.githubusercontent.com/anyethernet/privacy-policy/main/privacy-policy.md
